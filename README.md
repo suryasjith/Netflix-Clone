@@ -20,7 +20,7 @@ This project is a simplified front end clone of Netflix. It was created with Rea
 
 ### User Stories: 
 
-- User can search for movies and TV shows on TMDb
+- User can search for movies and TV shows on IMDb
 - User can the see upcoming and trending movies. Data updates weekly 
 - User can click on a movie and a modal should pop up. It should display the title, release date, overview, and runtime.  
 - The webpage adapts to any screen size. 
